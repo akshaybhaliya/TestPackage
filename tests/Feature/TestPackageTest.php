@@ -1,7 +1,7 @@
 <?php
 
-namespace Test\TestPackage\Tests\Feature;
-use Test\TestPackage\Tests\TestCase;
+namespace Garage\TestPackage\Tests\Feature;
+use Garage\TestPackage\Tests\TestCase;
 
 class TestPackageTest extends TestCase
 {

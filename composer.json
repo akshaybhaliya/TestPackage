@@ -1,5 +1,5 @@
 {
-    "name": "test/test-package",
+    "name": "Garage/test-package",
     "description": "This is my testing package",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Test\\TestPackage\\Tests\\": "tests/"
+            "Garage\\TestPackage\\Tests\\": "tests/"
         }
     },
     "authors": [
@@ -32,7 +32,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Test\\TestPackage\\TestPackageServiceProvider"
+                "Garage\\TestPackage\\TestPackageServiceProvider"
             ]
         }
     }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\TestPackage;
+namespace Garage\TestPackage;
 
 class Helloworld
 {

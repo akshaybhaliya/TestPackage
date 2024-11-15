@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\TestPackage\Facades;
+namespace Garage\TestPackage\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

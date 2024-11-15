@@ -1,9 +1,9 @@
 <?php
 
-namespace Test\TestPackage\Tests;
+namespace Garage\TestPackage\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
-use Test\TestPackage\TestPackageServiceProvider;
+use Garage\TestPackage\TestPackageServiceProvider;
 
 class TestCase extends Orchestra
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\TestPackage\Http\Controllers;
-use Test\TestPackage\Services\TwilioService;
+namespace Garage\TestPackage\Http\Controllers;
 use App\Http\Controllers\Controller;
+use Garage\TestPackage\Services\TwilioService;
 use Twilio\Rest\Client;
 
 class TestController extends Controller

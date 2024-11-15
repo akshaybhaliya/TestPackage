@@ -1,5 +1,5 @@
 <?php
-namespace Test\TestPackage\Services;
+namespace Garage\TestPackage\Services;
 
 use Twilio\Rest\Client;
 

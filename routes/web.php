@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Test\TestPackage\Http\Controllers\TestController;
+use Garage\TestPackage\Http\Controllers\TestController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
