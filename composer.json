@@ -1,5 +1,5 @@
 {
-    "name": "Garage/test-package",
+    "name": "garage/test-package",
     "description": "This is my testing package",
     "type": "library",
     "license": "MIT",
